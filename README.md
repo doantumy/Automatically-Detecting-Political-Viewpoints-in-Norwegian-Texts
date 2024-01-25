@@ -183,9 +183,6 @@ python3 run_t5_mlm_flax.py \
 
 
 # Training T5 model with keyword masking
-> **NOTES:**
-Our SP-models and tranining code will be available in Feb'24.
-
 - Training on TPU v2-8, total batch size of `96`, equence length of `512`
 - Number of opinion keywords: `1,822`
 ## Prepare masking file
