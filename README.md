@@ -32,7 +32,7 @@ python3 encoder_decoder_sum.py \
   --task_prefix="finn synspunkt: " \
   --max_length="512" \
   --epochs="10" \
-  --batch_size="16" --lr="3e-5" \
+  --batch_size="16" --lr="5e-5" \
   --max_new_token="100" --min_length="50" \
   --do_train --do_eval --do_predict \
   --use_wandb --wandb_prefix=nort5_vp --wandb_project_name="viewpoint"
