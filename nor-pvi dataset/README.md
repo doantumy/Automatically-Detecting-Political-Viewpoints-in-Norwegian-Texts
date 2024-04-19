@@ -1,5 +1,7 @@
 # `nor-pvi` Dataset
 
+> **_NOTE:_** Dataset is created for research purposes only.
+
 Dataset contains files for three tasks in train/val/test in TSV format.
 
 ## Data statistics
