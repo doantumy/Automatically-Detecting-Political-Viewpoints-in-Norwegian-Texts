@@ -8,7 +8,7 @@ Dataset contains files for three tasks in train/val/test in TSV format.
 | Task | Dataset | Train | Val | Test |Total|
 |------|------|-----|------|------|-----|
 | PVI           | `nor-pvi` | `1,007`        |  `112`     | `113` | `1,232`|
-|Summarization  | `nor-pvi` |`3,254`     |`404`  |`409`|`4,027`|
+|Summarization  | `nor-pvi` |`3,221`     |`402`  |`404`|`4,027`|
 | Stance        | `nor-pvi` | `984`        | `119`      | `117` |`1,220`|
 
 ## Data structure
